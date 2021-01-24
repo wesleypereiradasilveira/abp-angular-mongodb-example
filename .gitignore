@@ -1,2 +1,1 @@
-# manifest file dotnet
-./config
+.config/dotnet-tools.json
